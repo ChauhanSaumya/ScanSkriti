@@ -1,5 +1,4 @@
 # Scanskriti - Indian Language OCR Enhancement Tool
-![Scanskriti Logo](assets/images/logo.png)
 
 ## 🌟 Overview
 
