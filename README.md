@@ -1,8 +1,5 @@
 # Scanskriti - Indian Language OCR Enhancement Tool
-
-![Scanskriti Logo](https://img.shields.io/badge/Scanskriti-OCR%20Tool-138808)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Scanskriti Logo](assets/images/logo.png)
 
 ## 🌟 Overview
 
@@ -37,7 +34,7 @@ Named "Scanskriti" (a blend of "Scan" and "Sanskriti", meaning culture), this to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/scanskriti.git
+   git clone https://github.com/ChauhanSaumya/scanskriti.git
    ```
 
 2. Navigate to the project directory:
